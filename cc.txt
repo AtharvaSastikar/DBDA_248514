@@ -1,0 +1,5 @@
+Cloud Computing is delivery of resources and services including network, infrastructure storage and applications.
+  These services are given on pay-per-use mode.
+  The cloud services are derived into two types:
+1]Deployment Model
+2]Service Model
